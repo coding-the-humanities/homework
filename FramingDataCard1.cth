@@ -1,0 +1,76 @@
+title: Framing Data
+type: Insight (Background)
+
+description: 
+	Telling your story through data, core ideas and thinking about story and data.
+
+mla: Kosara, Robert and Jock Mackinlay. Storytelling: The Next Step for 
+	 Visualization. Seattle: Tableau Software. Magazine. 
+
+src: http://www.computer.org/csdl/mags/co/2013/05/mco2013050044.pdf
+
+content:
+
+Storytelling: The Next Step for Visualisation
+=============================================
+
+The story
+---------
+
+At its essence, a story is an ordered sequence of steps, 
+each of which can contain words, images, visualisations, 
+video, or any combination thereof. Here, we focus on 
+stories that primarily consist of visualisation steps, which 
+can include text and images but essentially are based on 
+data
+
+Starting with data
+------------------
+
+As a starting point, we propose the concept of 
+storytelling affordances—features of a visualisation that 
+provide a narrative structure and guide the reader through 
+a story. A fundamental feature of stories is that they 
+provide a temporal structure, even if it is not necessarily 
+linear. Time is closely related to causality, so providing 
+the causal relationships between facts and events ties the 
+individual parts together in a cohesive structure.
+
+Techniques specific to storytelling
+-----------------------------------
+
+Any visualisation can be used as part of a story, but 
+some techniques lend themselves to storytelling better 
+than others. For example, techniques such as the 
+connected scatterplot, in which the points are connected 
+with a line in some order, or the slope graph, essentially 
+a single-axis pair from parallel coordinates, generally are 
+not very useful for analysis. However, they can be quite 
+effective as storytelling devices for specific data. How well 
+they work depends not only on the data structure but also 
+on actual values. If the connected scatterplot results in 
+a large number of tangled lines, it does not provide any 
+value, but if the values change relatively smoothly and 
+Opening up a visualisation for interaction 
+at the story’s end provides a convenient 
+starting point for exploration and goes 
+beyond a simple slideshow. 
+
+
+Stories and collaboration
+-------------------------
+
+Storytelling is an inherently collaborative activity.
+Stories naturally lead to questions, 
+which lead to discussions, which lead to deeper analysis.
+In addition to being a good way to present data, stories 
+also offer an effective means of packaging information 
+and knowledge in a way that is easy for another person 
+to understand. 
+
+tags:
+- story
+- humanities
+- data
+- visualisation
+
