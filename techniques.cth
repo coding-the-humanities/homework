@@ -1,0 +1,24 @@
+title: Techniques
+type: Insight
+description: |
+  Any visualisation can be used as part of a story, but some techniques lend 
+  themselves to storytelling better 
+  than others. For example, techniques such as the 
+  connected scatterplot, in which the points are connected 
+  with a line in some order, or the slope graph, essentially 
+  a single-axis pair from parallel coordinates, generally are 
+  not very useful for analysis. However, they can be quite 
+  effective as storytelling devices for specific data. How well 
+  they work depends not only on the data structure but also 
+  on actual values. If the connected scatterplot results in 
+  a large number of tangled lines, it does not provide any 
+  value, but if the values change relatively smoothly and 
+  Opening up a visualisation for interaction 
+  at the story’s end provides a convenient 
+  starting point for exploration and goes 
+  beyond a simple slideshow. 
+tags:
+- scatterplot
+- data
+- presentation
+- storytelling
