@@ -1,24 +1,24 @@
-Title: Mama, What is a Humanities?
-Type:  Exercise
-Premise: |
+title: Mama, What is a Humanities?
+type:  Exercise
+premise: |
   A quasi-fictional future where the humanities as a discipline no longer exists
-Exercise:
-  Description: |
+exercise:
+  description: |
     Use the *NYT data* (up until the present) to explain what Humanities are to
     people from the future described above.
-  Steps:
+  steps:
   - Formulate a Hypothesis
   - Gather Data
   - Focus on *outliers*, exceptions, etc.
   - Decide on a story
   - Choose a visualization type that best fits this story
   - Mock up the visualization
-Material
+material
 - Poster
 - Colored Pens
-Tags:
-- Humanities
-- Future
-- Data Visualization
-- Story Telling
-- Outliers
+tags:
+- humanities
+- future
+- data visualization
+- story telling
+- outliers
