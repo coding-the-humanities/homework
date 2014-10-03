@@ -1,0 +1,5 @@
+title: Preference
+type: Discussion
+description: "What would you prefer? Visualising data or simply writing about it? And why?"
+time: 20 minutes
+response: ""

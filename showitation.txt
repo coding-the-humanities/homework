@@ -1,0 +1,8 @@
+title: Showitation
+type: Discussion
+description: |
+	There are many ways to show data and they all can be interpreted in different ways. 
+	Did WE use a good method of visualisation? 
+	Or are there better ways of showing data?
+time: 20 minutes
+response: ""

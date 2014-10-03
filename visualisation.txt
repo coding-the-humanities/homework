@@ -1,0 +1,5 @@
+title: Visualisation
+type: Discussion
+description: "How did data visualisation help clarify the concept of the Humanities to our hypothetical 2064 audience?"
+time: 20 minutes
+response: ""
