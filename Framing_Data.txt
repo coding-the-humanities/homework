@@ -1,0 +1,131 @@
+Information visualisation
+
+Title = Framing Data
+Description = Telling your story through data, needs some core ideas and thinking about story and data. Explore these concepts how they work together.
+Tags = "Background knowledge” story data visualisation 
+Relevance = Familiarising of core principles and background knowledge behind Data visualisation. 
+
+Content =
+ Title = 18 min TedEd video about data visualisation.
+ Media Title = The beauty of data visualisation - David mcCandle
+ Media source = https://www.youtube.com/watch?v=5Zg-C8AAIGg
+
+
+
+Content =
+
+At its essence, a story is an ordered sequence of steps, 
+each of which can contain words, images, visualizations, 
+video, or any combination thereof. Here, we focus on 
+stories that primarily consist of visualization steps, which 
+can include text and images but essentially are based on 
+data
+
+As a starting point, we propose the concept of 
+storytelling affordances—features of a visualization that 
+provide a narrative structure and guide the reader through 
+a story. A fundamental feature of stories is that they 
+provide a temporal structure, even if it is not necessarily 
+linear. Time is closely related to causality, so providing 
+the causal relationships between facts and events ties the 
+individual parts together in a cohesive structure.
+
+Interaction is one of the most important aspects of 
+visualization. The ability not only to see the data but also 
+to quickly change the view, add different data, and so 
+on makes analyzing it much faster and more effective. 
+Stories are traditionally told without interaction, and 
+unlike analysis processes, are predefined and meant to 
+be delivered in their entirety.
+Among the attempts at interactive storytelling, computer 
+games are perhaps the most interesting and certainly the 
+most popular. However, it is debatable whether games are 
+stories and not just worlds that the player can explore, 
+similar to traditional data exploration or analysis.
+Clearly, there are uses for interaction in visualization 
+stories that do not interfere with the story arc. At the 
+very least, opening up a visualization for interaction at 
+the story’s end provides a convenient starting point for 
+exploration and goes beyond a simple slideshow. Pausing 
+the story for interaction is another easy-to-imagine 
+scenario, particularly in response to questions from the 
+audience when using visualization in a live presentation
+
+
+Techniques specific to storytelling
+Any visualization can be used as part of a story, but 
+some techniques lend themselves to storytelling better 
+than others. For example, techniques such as the 
+connected scatterplot, in which the points are connected 
+with a line in some order, or the slope graph, essentially 
+a single-axis pair from parallel coordinates, generally are 
+not very useful for analysis. However, they can be quite 
+effective as storytelling devices for specific data. How well 
+they work depends not only on the data structure but also 
+on actual values. If the connected scatterplot results in 
+a large number of tangled lines, it does not provide any 
+value, but if the values change relatively smoothly and 
+Opening up a visualization for interaction 
+at the story’s end provides a convenient 
+starting point for exploration and goes 
+beyond a simple slideshow. 50 computer
+Cover Feature
+in slightly unexpected ways, the scatterplot provides the 
+starting point for a story.
+We are not aware of a systematic study of visualization 
+techniques for their effectiveness as storytelling devices. 
+Such studies could give a better understanding of the 
+design space for visualization techniques that are useful 
+in storytelling.
+
+
+Stories and collaboration
+Storytelling is an inherently collaborative activity: there 
+is no point in creating a story if there is no audience. Little 
+research has been done on collaboration in visualization, 
+and storytelling could provide an interesting starting point 
+for more work in this area. As the small-group presentation 
+scenario demonstrates, stories naturally lead to questions, 
+which lead to discussions, which lead to deeper analysis.
+In addition to being a good way to present data, stories 
+also offer an effective means of packaging information 
+and knowledge in a way that is easy for another person 
+to understand. Perhaps visual data stories will become 
+the way to preserve information about complex data 
+and processes and pass on knowledge in the future—not 
+unlike they once were, before reading and writing became 
+common skills.
+
+Content source = http://www.computer.org.proxy.uba.uva.nl:2048/csdl/mags/co/2013/05/mco2013050044.pdf
+Storytelling: The Next Step for Visualization
+Robert Kosara and Jock Mackinlay, Tableau Software, Seattle
+
+Content =
+
+Recap
+An excellent visualization, according to Edward Tufte, expresses “complex ideas communicated with clarity, precision and efficiency.” I would add that an excellent visualization also tells a story through the graphical depiction of statistical information. As I discussed in an earlier post, visualization in its educational or confirmational role is really a dynamic form of persuasion. Few forms of communication are as persuasive as a compelling narrative. To this end, the visualization needs to tell a story to the audience. Storytelling helps the viewer gain insight from the data. (For a great example, how much do you think steroids have influenced baseball?)
+
+	1.	Find the compelling narrative. Along with giving an account of the facts and establishing the connections between them, don’t be boring. You are competing for the viewer’s time and attention, so make sure the narrative has a hook, momentum, or a captivating purpose. Finding the narrative structure will help you decide whether you actually have a story to tell. If you don’t, then perhaps this visualization should support exploratory data analysis (EDA) rather than convey information. However, for the designer of an exploratory visualization it is still important to spark the viewers’ imagination to encourage examining relationships among and facilitate interactingwith the data – think gameification.
+	2.	Be objective and offer balance. A visualization should be devoid of bias. Even if it is arguing to influence, it should be based upon what the data says–not what you want it to say. Tufte found numerous charts that misled viewers about the underlying data, and created a formula to quantify such a misleading graphic called the “Lie Factor.” The Lie Factor is equivalent to the size of the effect shown in the graphic, divided by the size of the effect in the data. Sometimes it is unintentional-a number that is three times bigger than another will be perceived nine times bigger if represented in 3D. There are simple ways to encourage objectivity: labeling to avoid ambiguity, have graphic dimensions match data dimensions, using standardized units, and keeping design elements from compromising the data. Balance can come from alternative representations (multiple clustering’s; confidence intervals instead of lines; changing timelines; alternative color palettes and assignments; variable scaling) of the data in the same visualization. Maintaining objectivity and balance is not a trivial effort and is easily unintentionally violated. Viewers and decision makers will eventually sniff out inconsistencies which in turn will cause the designer to lose trust and credibility, no matter how good the story.
+	3.	Don’t Censor. Don’t be selective about the data you include or exclude, unless you’re confident you’re giving your audience the best representation of what the data “says”. This selectivity includes using discrete values when the data is continuous; how you deal with missing, outlier and out of range values; arbitrary temporal ranges; capped values, volumes, ranges, and intervals. Viewers will eventually figure that out and lose trust in the visualization (and any others you might produce).
+	4.	Finally, Edit, Edit, Edit. Also, take care to really try to explain the data, not just decorate it. Don’t fall into “it looks cool” trap, when it might not be the best way explain the data. As journalists and writers know, if you are spending more time editing and improving your visualization than creating it, you are probably doing something right.
+
+
+conent source = Jim Stikeleather  |   11:00 AM April 24, 2013
+http://blogs.hbr.org/2013/04/how-to-tell-a-story-with-data/
+
+
+Extra learning =
+Title = 
+description =
+link =
+http://www.theguardian.com/news/datablog
+
+Title = 
+description =
+link =
+http://www.thinkwithgoogle.com/articles/tell-meaningful-stories-with-data.html
+
+Related = Links to cards about story 
+
+Suggested next card = Getting started with your project (example)
