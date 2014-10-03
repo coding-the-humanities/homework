@@ -1,10 +1,14 @@
 title: Showitation
 type: Discussion
-premise: |Start discussion on good practises of datavisualization|
+premise: |
+  Start discussion on good practises of data visualization
 discussion:
-	description: "There are many ways to show data and they all can be interpreted in different ways. 
-		- Did WE use a good method of visualisation? Or are there 	
-			better ways of showing data?"
+  description: |
+    "There are many ways to show data and they all can be interpreted
+    in different ways.
+  questions:
+  - Did we use a good method of visualisation?
+  - Or are there better ways of showing data?"
 time: 20 minutes
 outcome:
-	content: 
+  content: [[Fill in your answer here.]]

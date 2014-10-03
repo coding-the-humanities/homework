@@ -1,0 +1,15 @@
+title: Date Visualisation References
+type: References
+references:
+- authors:
+    - Kosara, Robert
+    - Mackinlay, Jock
+  title: Storytelling: The Next Step for Visualization.
+  city: Seattle
+  collection: Tableau Software. Magazine
+  url: http://www.computer.org/csdl/mags/co/2013/05/mco2013050044.pdf
+tags:
+- story
+- humanities
+- data
+- visualisation

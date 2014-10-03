@@ -1,13 +1,10 @@
 title: Framing Data
-type: Insight (Background)
+type: Insight
 
-description: 
-	Telling your story through data, core ideas and thinking about story and data.
+description: |
+  Telling your story through data, core ideas and thinking about story and
+  data.
 
-mla: Kosara, Robert and Jock Mackinlay. Storytelling: The Next Step for 
-	 Visualization. Seattle: Tableau Software. Magazine. 
-
-src: http://www.computer.org/csdl/mags/co/2013/05/mco2013050044.pdf
 
 content:
 
@@ -56,7 +53,6 @@ at the story’s end provides a convenient
 starting point for exploration and goes 
 beyond a simple slideshow. 
 
-
 Stories and collaboration
 -------------------------
 
@@ -73,4 +69,3 @@ tags:
 - humanities
 - data
 - visualisation
-
